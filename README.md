@@ -27,8 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
 </div>
 
-![](https://raw.githubusercontent.com/Wolfhaize/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Wolfhaize/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Wolfhaize/GithubSTATS/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Wolfhaize/GithubSTATS/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/Wolfhaize/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Wolfhaize/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Wolfhaize/GithubSTATS/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Wolfhaize/GithubSTATS/master/generated/languages.svg#gh-light-mode-only)
