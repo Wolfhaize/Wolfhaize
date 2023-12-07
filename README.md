@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://discord.gg/pwgH5bKhv4">
     <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=red&style=for-the-badge" alt="Discord Badge"/>
