@@ -2,7 +2,7 @@
   
   <div id="badges">
   
-    <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=red&style=for-the-badge" alt="Discord Badge"/>
+    
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Wolfhaize&style=flat-square&color=red" alt=""/>
